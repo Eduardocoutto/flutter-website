@@ -1,6 +1,6 @@
 # flautistas
 
-A new Flutter project.
+Um projeto de teste.
 
 ## Getting Started
 
